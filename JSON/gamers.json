@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "wishlist": [
+      {
+        "name": "Atomic Heart",
+        "cost": 2000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "wishlist": [
+      {
+        "name": "God of War",
+        "cost": 200
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "wishlist": [
+      {
+        "name": "Atomic Heart",
+        "cost": 800
+      },
+      {
+        "name": "Witcher III: Wild Hunt",
+        "cost": 300
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "wishlist": [
+      {
+        "name": "Dark Souls 3",
+        "cost": 500
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "wishlist": [
+      {
+        "name": "Cuphead",
+        "cost": 100
+      },
+      {
+        "name": "Metro Exodus",
+        "cost": 1000
+      }
+    ]
+  }
+]
